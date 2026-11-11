@@ -22,4 +22,8 @@ The characters, props and letters were generated on Runway (gpt_image_2 and gen4
 
 ## License
 
-Not chosen yet.
+The pictures, the lettering and the rules are licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0); the full text is in `LICENSE`. You may use, change and share them, in free or paid games, as long as you credit them. Put this, or the same facts, where your game lists its credits:
+
+> Turnips art by lex00 (https://github.com/lex00/turnips), licensed under CC BY 4.0.
+
+Say if you changed anything. The licence covers only this repo's files: Donkey Kong, its name and its ROM belong to Nintendo and aren't licensed here.
